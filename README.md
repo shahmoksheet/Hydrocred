@@ -19,4 +19,4 @@ A blockchain-based platform for managing and trading hydropower credits, promoti
 =======
 # Hydrocred
 
->>>>>>> 5cac47c4abe06f7f0446b47c35330f958ac0b6c7
+
