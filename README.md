@@ -21,4 +21,13 @@ A blockchain-based platform for managing and trading hydropower credits, promoti
 
 <img width="1919" height="882" alt="Screenshot 2025-08-31 103237" src="https://github.com/user-attachments/assets/8c57218f-2b7a-4f8f-8698-2eb452f5a79e" />
 
+#sign up
+
+<img width="563" height="675" alt="Screenshot 2025-08-31 103603" src="https://github.com/user-attachments/assets/58ded068-d0db-4aa7-864c-30db32de8f99" />
+
+
+#sign in
+<img width="1159" height="889" alt="Screenshot 2025-08-31 103342" src="https://github.com/user-attachments/assets/b7050c68-3224-4c6c-aa7b-80e178eb4956" />
+
+
 
