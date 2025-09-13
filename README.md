@@ -49,6 +49,39 @@ A blockchain-based platform for managing and trading hydropower credits, promoti
 
 <img width="977" height="440" alt="Screenshot 2025-08-31 103517" src="https://github.com/user-attachments/assets/a669def1-db1f-4503-895c-7da7f76697f7" />
 
+#others
+
+<img width="932" height="689" alt="Screenshot 2025-08-31 103710" src="https://github.com/user-attachments/assets/7e2e467c-8d08-4f0a-a236-ab997a9fc78e" />
+
+<img width="961" height="902" alt="Screenshot 2025-08-31 103835" src="https://github.com/user-attachments/assets/6ae84855-af83-4f11-98cc-c4b1a8eac6d9" />
+
+
+<img width="1189" height="796" alt="Screenshot 2025-08-31 112629" src="https://github.com/user-attachments/assets/0ac73a64-6473-4a9c-8fad-326e2a48c553" />
+
+Blockchain-Based Green Hydrogen Credit
+System
+Description:
+In the transition to low-carbon economies, it's vital to accurately account for and incentivize
+the production of truly “green” hydrogen—hydrogen generated from
+renewable resources. This problem asks participants to design a system utilizing blockchain
+technology to issue, track, and certify credits for every unit of certified green hydrogen
+produced. Transactions, transfers, and retirements of credits between producers, certifying
+authorities, and industrial consumers must be transparent and immutable. The system
+should also support integration with external auditors or government verifiers and allow
+for monitoring (and preventing) double counting or fraud.
+User:
+Green hydrogen producers, regulatory authorities, industry buyers (steel, ammonia,
+transport companies), certification bodies.
+Impact:
+● Increases trust in claims of renewable hydrogen usage, boosting market
+confidence.
+● Enables industries to prove compliance with green mandates and meet
+carbon-neutral goals.
+● Encourages more producers to invest in certified green hydrogen due to clear
+value and traceability.
+
+
+
 
 
 
